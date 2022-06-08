@@ -23,6 +23,5 @@ composer.lock
 /categories
 
 gulpfile.js
-updateDatabase.js
-database.txt
+
 
