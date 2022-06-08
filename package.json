@@ -1,7 +1,7 @@
 {
   "name": "website-template",
   "version": "1.0.0",
-  "description": "SEO2 is a website tool, that allows users to test different urls to see how much co2 emission that website creates. \r  It is going to be split in two: a public one, that takes a lot of assumptions and averages, and then if they are customers at dentsu we can use their GA data to get a more precise measure.",
+  "description": "",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
